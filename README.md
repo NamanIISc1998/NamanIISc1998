@@ -1,5 +1,6 @@
-<h1 align="center">Naman Kishan Rastogi</h1>
-<h3 align="center">Probabilistic flood forecasting · Bayesian hydrology · Satellite hydrology (SWOT)</h3>
+<p align="center">
+  <img src="banner.svg" alt="Naman Kishan Rastogi: probabilistic flood forecasting, teleconnections, Bayesian hydrology" width="100%">
+</p>
 
 <p align="center">
   <a href="https://nkrastogi.com"><img src="https://img.shields.io/badge/Website-nkrastogi.com-0b3d5c?style=flat-square" alt="Website"></a>
